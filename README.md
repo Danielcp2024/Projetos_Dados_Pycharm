@@ -2,7 +2,7 @@
 ## Este repositório contém um conjunto de scripts desenvolvidos no PyCharm focados no pipeline completo de tratamento de dados, desde a coleta em diferentes fontes até a limpeza e exportação de dados prontos para análise.
 
 # Tecnologias e Ferramentas
-<h1> Linguagem: Python
+<sup> Linguagem: Python
 
  <h1> Biblioteca Principal: Pandas
 
