@@ -1,19 +1,19 @@
-📊 # Projeto de Engenharia e Tratamento de Dados
+# Projeto de Engenharia e Tratamento de Dados
 ## Este repositório contém um conjunto de scripts desenvolvidos no PyCharm focados no pipeline completo de tratamento de dados, desde a coleta em diferentes fontes até a limpeza e exportação de dados prontos para análise.
 
-🛠️ #Tecnologias e Ferramentas
-## Linguagem: Python
+# Tecnologias e Ferramentas
+<sub> Linguagem: Python
 
-## Biblioteca Principal: Pandas
+ <sub> Biblioteca Principal: Pandas
 
-## Bancos de Dados: MySQL
+<sub> Bancos de Dados: MySQL
 
-## Formatos de Arquivos: CSV, JSON, HTML
+<sub> Formatos de Arquivos: CSV, JSON, HTML
 
-## IDE: PyCharm
+<sub> IDE: PyCharm
 
-🚀 # Funcionalidades e Implementações
-1. # Manipulação e Limpeza de Dados
+ # Funcionalidades e Implementações
+<sub>1. Manipulação e Limpeza de Dados
 Tratamento de Inconsistências: Identificação e correção de dados nulos, duplicados ou formatos inválidos.
 
 Remoção de Outliers: Utilização de técnicas estatísticas (como IQR) para filtrar valores atípicos que podem enviesar análises.
@@ -22,9 +22,9 @@ Lambda Functions: Uso de funções anônimas para transformações rápidas e ef
 
 Normalização: Padronização de textos e valores para garantir a integridade dos dados.
 
-2. # Integração com Diferentes Fontes
-## Arquivos Locais: Importação e exportação otimizada de arquivos CSV e JSON.
+# 2. Integração com Diferentes Fontes
+<sub> Arquivos Locais: Importação e exportação otimizada de arquivos CSV e JSON.
 
-## Web Scraping/HTML: Processamento de dados estruturados em formato HTML.
+<sub> Web Scraping/HTML: Processamento de dados estruturados em formato HTML.
 
-## Banco de Dados: Conexão e manipulação de tabelas via MySQL, garantindo a persistência dos dados tratados.
+<sub> Banco de Dados: Conexão e manipulação de tabelas via MySQL, garantindo a persistência dos dados tratados.
