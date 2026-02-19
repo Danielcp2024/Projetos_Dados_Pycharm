@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa48231-76b3-4170-848b-a53b541fc732" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tratamento_dados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inconsistencias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outliers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientes_limpeza.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientes_remove_outliers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientes_tratados.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudo_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_tratamento_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limpeza_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
